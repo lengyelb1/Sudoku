@@ -1,0 +1,9 @@
+C:\Git\Sudoku\sudokuCli\sudokuCli\bin\Debug\sudokuCli.exe.config
+C:\Git\Sudoku\sudokuCli\sudokuCli\bin\Debug\sudokuCli.exe
+C:\Git\Sudoku\sudokuCli\sudokuCli\bin\Debug\sudokuCli.pdb
+C:\Git\Sudoku\sudokuCli\sudokuCli\obj\Debug\sudokuCli.csproj.AssemblyReference.cache
+C:\Git\Sudoku\sudokuCli\sudokuCli\obj\Debug\sudokuCli.csproj.SuggestedBindingRedirects.cache
+C:\Git\Sudoku\sudokuCli\sudokuCli\obj\Debug\sudokuCli.csproj.CoreCompileInputs.cache
+C:\Git\Sudoku\sudokuCli\sudokuCli\obj\Debug\sudokuCli.exe
+C:\Git\Sudoku\sudokuCli\sudokuCli\obj\Debug\sudokuCli.pdb
+C:\Git\Sudoku\sudokuCli\sudokuCli\bin\Debug\feladvanyok.txt
